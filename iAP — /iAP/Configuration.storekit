@@ -1,0 +1,63 @@
+{
+  "identifier" : "3A00E089",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "A9F24AF3",
+      "localizations" : [
+        {
+          "description" : "one month subscription",
+          "displayName" : "month",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.month",
+      "referenceName" : "month",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "3.00",
+      "familyShareable" : false,
+      "internalID" : "24889896",
+      "localizations" : [
+        {
+          "description" : "six month subscriptions",
+          "displayName" : "six month",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.six_month",
+      "referenceName" : "six month",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "F38192E0",
+      "localizations" : [
+        {
+          "description" : "one year subscribtions",
+          "displayName" : "year",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.year",
+      "referenceName" : "year",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
